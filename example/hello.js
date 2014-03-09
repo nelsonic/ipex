@@ -1,2 +1,2 @@
-// Call the console.log function
-console.log("Hello World");
+var name = "World";
+console.log("Hello "+name);
